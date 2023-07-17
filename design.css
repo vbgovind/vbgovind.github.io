@@ -15,7 +15,7 @@ body {
   position:fixed;
   height: 100%;
   padding: 20px 0;
-  top: 5%;
+  top: 0%;
   left: 30px;
 }
 
@@ -33,7 +33,6 @@ body {
 
 .sidebar_item{
   color: white;
-  text-align: center;
 }
 
 a:link.sidebar_item { text-decoration: none; }
