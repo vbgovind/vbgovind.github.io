@@ -14,7 +14,7 @@ body {
 .sidebar {
   position:fixed;
   height: 100%;
-  padding: 20px 0;
+  padding: 0;
   top: 0%;
   left: 30px;
 }
@@ -26,9 +26,7 @@ body {
   border-style: solid;
   border-width: medium;
   border-color: yellow;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  text-align:center;
 }
 
 .sidebar_item{
