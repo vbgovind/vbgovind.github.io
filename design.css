@@ -13,9 +13,8 @@ body {
 
 .sidebar {
   position:fixed;
-  top: 0;
+  top: 5%;
   left: 0;
-  width: 150px;
   height: 100%;
   padding: 20px 0;
 }
