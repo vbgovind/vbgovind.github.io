@@ -3,6 +3,10 @@ body {
   margin-left: 5%;
 }
 
+ul{
+  list-style-image: url('bee.png');
+}
+
 .bullet{
     background: url('bee.jpg') no-repeat;
     display:inline-block;
