@@ -3,3 +3,12 @@ body {
   margin-left: 5%;
 }
 
+.bullet{
+    background: url('bee.png') no-repeat;
+    display:inline-block;
+    vertical-align: middle;
+    background-size:100%;
+    height:25px;
+    width:25px;
+    margin-right: 5px;
+}
