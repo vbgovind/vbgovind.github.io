@@ -6,6 +6,10 @@ body {
   margin-left: 5%;
 }
 
+.main_content{
+  margin-left: 200px;
+}
+
 .sidebar {
   position:fixed;
   top: 0;
