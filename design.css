@@ -3,8 +3,17 @@ body {
   margin-left: 5%;
 }
 
-ul{
-  list-style-image: url('bee.png');
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  background-image: url("/uploads/media/default/0001/02/1ac48d17fa5906a111bba2c4ca6f1363acb1893a.png");
+  background-repeat: no-repeat;
+  background-position: 1px;
+  padding-left: 20px;
 }
 
 .bullet{
