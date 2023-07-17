@@ -3,11 +3,12 @@
 body {
   font-family: verdana;
   color: black;
+  margin-top: 5%;
   margin-left: 5%;
 }
 
 .main_content{
-  margin-left: 200px;
+  margin-left: 150px;
 }
 
 .sidebar {
