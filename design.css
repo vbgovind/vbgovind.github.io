@@ -4,7 +4,7 @@ body {
 }
 
 .bullet{
-    background: url('bee.png') no-repeat;
+    background: url('bee.jpg') no-repeat;
     display:inline-block;
     vertical-align: middle;
     background-size:100%;
