@@ -3,7 +3,6 @@
 body {
   font-family: verdana;
   color: black;
-  position: relative;
   margin-top: 5%;
   margin-left: 5%;
 }
@@ -16,10 +15,8 @@ body {
   position:fixed;
   height: 100%;
   padding: 20px 0;
-  top: 50%;
+  top: 15%;
   left: 0;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
 }
 
 .sidebar_box {
@@ -43,7 +40,6 @@ ul {
 
 .profile_pic {
   float: right;
-  padding: 25px;
   margin-right: 75px;
   height: 200px;
 }
