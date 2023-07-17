@@ -3,6 +3,10 @@ body {
   margin-left: 5%;
 }
 
+.sidebar {
+  width: 25%;
+}
+
 /*
 ul {
   list-style-type: none;
