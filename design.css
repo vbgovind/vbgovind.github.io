@@ -2,7 +2,7 @@
 
 body {
   font-family: verdana;
-  color: green;
+  color: red;
   margin-top: 5%;
   margin-left: 5%;
 }
@@ -20,7 +20,7 @@ body {
   padding: 20px 0;
 }
 
-.sidebar-box {
+.sidebar_box {
   background: rgb(0,0,0);
   color: (255,255,255);
   padding: 10px;
@@ -28,7 +28,7 @@ body {
 }
 
 ul {
-  list-style-image: url ('bee.jpg');
+  list-style-image: url ('download.png');
 }
 
 .profile_pic {
