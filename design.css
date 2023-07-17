@@ -10,10 +10,11 @@ ul {
 }
 
 li {
-  background-image: url("bee.jpg");
+  background-image: url('bee.jpg');
   background-repeat: no-repeat;
   background-position: 1px;
   padding-left: 20px;
+  vertical-align: top;
 }
 
 .bullet{
