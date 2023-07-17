@@ -2,7 +2,7 @@
 
 body {
   font-family: verdana;
-  color: red;
+  color: black;
   margin-top: 5%;
   margin-left: 5%;
 }
@@ -23,15 +23,18 @@ body {
 
 .sidebar_box {
   background: black;
-  color: white;
   padding: 10px;
   margin: 10px;
 }
 
-a:link { text-decoration: none; }
-a:visited { text-decoration: none; }
-a:hover { text-decoration: none; }
-a:active { text-decoration: none; }
+.sidebar_item{
+  color: white;
+}
+
+a:link.sidebar_item { text-decoration: none; }
+a:visited.sidebar_item { text-decoration: none; }
+a:hover.sidebar_item { text-decoration: underline; }
+a:active.sidebar_item { text-decoration: underline; }
 
 ul {
   list-style-image: url ('download.png');
@@ -40,7 +43,7 @@ ul {
 .profile_pic {
   float: right;
   padding: 25px;
-  margin-left: 50px;
+  margin-right: 50px;
   height: 200px;
 }
 
