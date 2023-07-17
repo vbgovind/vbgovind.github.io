@@ -16,7 +16,7 @@ body {
   height: 100%;
   padding: 20px 0;
   top: 15%;
-  left: 0;
+  left: 15px;
 }
 
 .sidebar_box {
@@ -30,6 +30,7 @@ body {
 
 .sidebar_item{
   color: white;
+  text-align: center;
 }
 
 a:link.sidebar_item { text-decoration: none; }
