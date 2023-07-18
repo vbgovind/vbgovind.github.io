@@ -3,7 +3,7 @@
 body {
   font-family: verdana;
   color: black;
-  margin-top: 5%;
+  margin-top: 2%;
   margin-left: 5%;
   margin-right: 5%;
   margin-bottom: 5%;
@@ -46,12 +46,12 @@ ul {
 
 .profile_pic {
   float: right;
-  margin-right: 75px;
+  margin-right: 100px;
   height: 200px;
 }
 
 .about_me {
-  margin-right: 10%;
+  margin-right: 7%;
 }
 
 /*
