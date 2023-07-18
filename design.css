@@ -29,6 +29,10 @@ body {
   margin-bottom:30px;
 }
 
+.about_me{
+  margin-left: 30px;
+}
+
 .sidebar {
   position:fixed;
   height: 75%;
