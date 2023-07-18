@@ -93,9 +93,9 @@ li::before {
 */
 
 
-/*
+
 .bullet{
-    background: url('bee.jpg') no-repeat;
+    background: url(/bee.jpg) no-repeat;
     display:inline-block;
     vertical-align: middle;
     background-size:100%;
@@ -103,4 +103,4 @@ li::before {
     width:25px;
     margin-right: 5px;
 }
-*/
+
