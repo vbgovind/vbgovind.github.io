@@ -76,11 +76,12 @@ ul {
   height: 200px;
 }
 
-/*
+
 li {
-  background-image: url(/bee_25.jpg);
+  margin-top:2px;
+  margin-left: 10px;
 }
-*/
+
 
 /*
 .bullet{
