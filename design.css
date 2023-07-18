@@ -50,6 +50,10 @@ ul {
   height: 200px;
 }
 
+.about_me {
+  margin-right: 10%;
+}
+
 /*
 li {
   background-image: url('bee.jpg');
