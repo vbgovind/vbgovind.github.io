@@ -77,10 +77,6 @@ ul {
 }
 
 li {
-  content: '';
-  display: inline-block;
-  height: 25px;
-  width: 25px;
   background-image: url(/bee_25.jpg);
 }
 
