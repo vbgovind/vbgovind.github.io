@@ -78,10 +78,11 @@ ul {
 
 
 li::before {
-  margin-top: 5px;
-  padding-top:5px;
   padding-right: 15px;
-  height: 25px;
+  margin-right: 10px;
+  height: 15px;
+  display:inline-block;
+  vertical-align: middle;
 }
 
 
