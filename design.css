@@ -9,12 +9,16 @@ body {
   margin-bottom: 5%;
 }
 
+
 .header {
   background: url('manuel-CANL3bzp6wU-unsplash.jpg');
   padding-top:15px;
   opacity: 0.6;
   width: 100%;
   text-align: center;
+  margin-top:0;
+  margin-right:0;
+  margin-left:0;
   margin-bottom: 10px;
 }
 
