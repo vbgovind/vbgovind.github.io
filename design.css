@@ -78,9 +78,6 @@ ul {
 
 
 li::before {
-  padding-right: 15px;
-  margin-right: 10px;
-  height: 15px;
   display:inline-block;
   vertical-align: middle;
 }
