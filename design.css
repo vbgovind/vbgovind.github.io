@@ -9,6 +9,12 @@ body {
   margin-bottom: 5%;
 }
 
+.header {
+  background: url('manuel-CANL3bzp6wU-unsplash.jpg');
+  opacity: 0.6;
+  width: 100%;
+}
+
 .main_content{
   margin-left: 150px;
 }
@@ -56,12 +62,14 @@ ul {
   margin-right: 7%;
 }
 
+/*
 li {
   background: url('bee.jpg') no-repeat left top;
   height: 20px;
   padding-top: 7px;
   padding-left: 44px;
 }
+*/
 
 /*
 .bullet{
