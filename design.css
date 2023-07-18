@@ -41,7 +41,9 @@ a:hover.sidebar_item { text-decoration: underline; }
 a:active.sidebar_item { text-decoration: underline; }
 
 ul {
-  list-style-image: url ('download.png');
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
 }
 
 .profile_pic {
@@ -54,18 +56,12 @@ ul {
   margin-right: 7%;
 }
 
-/*
 li {
-  background-image: url('bee.jpg');
-  background-repeat: no-repeat;
-  padding-left: 20px;
-  display:inline-block;
-  vertical-align: middle;
-  height:25px;
-  width:25px;
-  margin-right: 5px;
+  background: url('bee.jpg') no-repeat left top;
+  height: 20px;
+  padding-top: 7px;
+  padding-left: 44px;
 }
-*/
 
 /*
 .bullet{
