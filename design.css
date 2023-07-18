@@ -64,13 +64,11 @@ a:visited.sidebar_item { text-decoration: none; }
 a:hover.sidebar_item { text-decoration: underline; }
 a:active.sidebar_item { text-decoration: underline; }
 
-/*
+
 ul {
-  list-style-image: url(/bee.jpg);
-  height:25px;
-  width:25px;
+  list-style: none;
 }
-*/
+
 
 .profile_pic {
   float: right;
@@ -78,11 +76,11 @@ ul {
   height: 200px;
 }
 
-/*
 li {
   list-style: none;
 }
 
+/*
 li::before {
   content: '';
   display: inline-block;
