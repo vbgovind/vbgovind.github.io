@@ -46,11 +46,13 @@ a:visited.sidebar_item { text-decoration: none; }
 a:hover.sidebar_item { text-decoration: underline; }
 a:active.sidebar_item { text-decoration: underline; }
 
+/*
 ul {
   padding: 0;
   margin: 0;
   list-style-type: none;
 }
+*/
 
 .profile_pic {
   float: right;
