@@ -67,6 +67,10 @@ a:active.sidebar_item { text-decoration: underline; }
 
 ul {
   list-style-image: url(/bee_50.jpg);
+  margin-top: 5px;
+  padding-top:5px;
+  padding-right: 15px;
+  height: 25px;
 }
 
 
