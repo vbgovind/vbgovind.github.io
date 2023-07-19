@@ -69,6 +69,9 @@ ul {
   list-style-image: url(/bee_25.jpg);
 }
 
+li{
+  padding-left: 10px;
+}
 
 .profile_pic {
   float: right;
