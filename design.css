@@ -70,7 +70,7 @@ ul {
 }
 
 li{
-  padding-left: 10px;
+  position: relative;
 }
 
 .profile_pic {
@@ -81,8 +81,9 @@ li{
 
 
 li::before {
-  display:inline-block;
-  vertical-align: middle;
+  position:absolute;
+  left: -0.8;
+  font-size: 1.1em;
 }
 
 
