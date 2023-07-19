@@ -73,7 +73,7 @@ a:active.sidebar_item { text-decoration: underline; }
 ul {
 /*  list-style-image: url(/bee_25.jpg);*/
 }
-
+/*
 li{
   position: relative;
 }
@@ -85,7 +85,7 @@ li::before {
   top:0.8em;
   font-size: 1.1em;
 }
-
+*/
 
 /*
 .bullet{
