@@ -64,6 +64,11 @@ a:visited.sidebar_item { text-decoration: none; }
 a:hover.sidebar_item { text-decoration: underline; }
 a:active.sidebar_item { text-decoration: underline; }
 
+.profile_pic {
+  float: right;
+  margin-right: 100px;
+  height: 200px;
+}
 
 ul {
   list-style-image: url(/bee_25.jpg);
@@ -73,16 +78,11 @@ li{
   position: relative;
 }
 
-.profile_pic {
-  float: right;
-  margin-right: 100px;
-  height: 200px;
-}
-
-
 li::before {
   position:absolute;
   left: -0.8;
+  right: 0.8em;
+  top:0.8em;
   font-size: 1.1em;
 }
 
