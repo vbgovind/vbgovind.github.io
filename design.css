@@ -23,6 +23,7 @@ body {
 .heading {
   font-size: 36px;
   color: black;
+  text-shadow: 0 0 3px #fff
   /*
   background: -webkit-linear-gradient(#e0891d, #ffffff);
   -webkit-background-clip:text;
