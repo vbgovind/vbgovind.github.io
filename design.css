@@ -22,7 +22,7 @@ body {
 
 .heading {
   font-size: 36px;
-  background: -webkit-linear-gradient(#e0891d, #e36257, #bf547f, #83578d, #495447c, #2f4858);
+  background: -webkit-linear-gradient(#e0891d, #ffffff);
   -webkit-background-clip:text;
   -webkit-text-fill-color: transparent;
 }
