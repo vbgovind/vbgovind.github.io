@@ -23,10 +23,7 @@ body {
 .heading {
   font-size: 36px;
   color: black;
-  text-shadow: -1px 1px 0 #fff,
-                1px 1px 0 #fff,
-                1px 1px 0 #fff,
-                -1px 1px 0 #fff,
+  text-shadow: 0 0 5px #fff,
     
   /*
   background: -webkit-linear-gradient(#e0891d, #ffffff);
