@@ -70,8 +70,17 @@ a:active.sidebar_item { text-decoration: underline; }
   height: 200px;
 }
 
+
 ul {
-/*  list-style-image: url(/bee_25.jpg);*/
+  margin: 0 0 0 0;
+  line-height: 1.5
+  list-style: none;
+}
+
+.b1 {
+  list-style-image: url(bee_15.png);
+/*  background: url ("bee_50.jpg");*/
+
 }
 /*
 li{
